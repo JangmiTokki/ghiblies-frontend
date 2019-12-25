@@ -1,0 +1,25 @@
+body
+{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin-top: 5rem;
+}
+.signup-container
+{
+    box-shadow: 1px 1px 3px grey;
+    padding: 5rem 5rem 5rem 5rem;
+    max-width: 100%;
+}
+.signup-container h2
+{
+   margin-left: 10rem;
+   margin-bottom: 2rem;
+}
+
+input
+{
+    padding: 0.5rem 10rem;
+    display: block;
+    margin-bottom: 1rem;
+}
